@@ -1,3 +1,5 @@
+package org.example;
+
 /*
  * Reto #0
  * EL FAMOSO "FIZZ BUZZ"
@@ -28,4 +30,5 @@ public class FizzBuzz {
             }
         }
     }
+
 }
